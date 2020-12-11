@@ -92,5 +92,5 @@ class Student
 
 
 
-  
+
 end
